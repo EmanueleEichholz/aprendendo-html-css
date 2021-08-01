@@ -227,7 +227,7 @@ td, th {
 }
 
 .itens:first-child {
-    font-weight: bold;
+    font-style: italic;
 }
 
 .imagem-beneficios {
